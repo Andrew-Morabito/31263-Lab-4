@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6455310965842814984}
   - component: {fileID: 6455310965842814985}
   - component: {fileID: 6455310965842814986}
-  - component: {fileID: -6386956172470507176}
+  - component: {fileID: 6213230300089198331}
   m_Layer: 0
   m_Name: RedPrefab
   m_TagString: Red
@@ -106,7 +106,7 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-6386956172470507176
+--- !u!114 &6213230300089198331
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

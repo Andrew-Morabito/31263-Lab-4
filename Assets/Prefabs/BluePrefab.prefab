@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8869592491988970836}
   - component: {fileID: 8869592491988970837}
   - component: {fileID: 8869592491988970834}
-  - component: {fileID: -862643217610504259}
+  - component: {fileID: 5869716428619293804}
   m_Layer: 0
   m_Name: BluePrefab
   m_TagString: Blue
@@ -106,7 +106,7 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-862643217610504259
+--- !u!114 &5869716428619293804
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
